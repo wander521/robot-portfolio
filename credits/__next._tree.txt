@@ -1,6 +1,6 @@
-:HL["/robot-portfolio/_next/static/css/ac6257394fb035c0.css","style"]
+:HL["/robot-portfolio/_next/static/css/49b05acd12f8dc56.css","style"]
 :HL["/robot-portfolio/_next/static/css/7794af99c7019b84.css","style"]
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"credits","h":96,"c":"$Q2"}]]
-0:{"b":"MICK4bD207LovEMRuHFXd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"N6lfUdSxvJOcvk61q_D3r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
