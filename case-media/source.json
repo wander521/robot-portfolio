@@ -1,0 +1,17 @@
+{
+  "origin": "user-provided robot VLA test-tube footage",
+  "sourceSha256": "f01c4a72ca63806ced0b10b5500eeff047047b43798c61fc7f0d4a454e86dd86",
+  "video": {
+    "file": "vla-test-tube.mp4",
+    "sha256": "919b4363a6da88c2cf322b221a5cbb03a932c554297aa6e6cff981c4f50fbd1e",
+    "width": 540,
+    "height": 960,
+    "durationSeconds": 8.933333,
+    "transform": "H.264 re-encoding, audio removed, original framing and sequence retained"
+  },
+  "poster": {
+    "file": "vla-test-tube-poster.webp",
+    "sha256": "96aadafcfbce470f585841c529a7f2736b2212f1a827011a4dcf4474a5d02657",
+    "sourceFrameSeconds": 7
+  }
+}
