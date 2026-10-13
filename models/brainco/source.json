@@ -1,0 +1,46 @@
+{
+  "model": "BrainCo Revo 2 left/right dexterous hands",
+  "repository": "https://github.com/BrainCoTech/revo2_description",
+  "commit": "92cc697c7fa691db59404ce52344f3969a5ef7a6",
+  "license": "Apache-2.0",
+  "modifications": [
+    "Official URDF/STL converted to indexed GLB with recalculated normals; joint axes, limits and mimic metadata retained",
+    "Web display materials and authored gesture interpolation; not a hardware recording"
+  ],
+  "outputs": [
+    {
+      "file": "revo2-left.glb",
+      "bytes": 2909296,
+      "sha256": "834266a7c21fb23f80ad053bd8bb65a48c0a8b20017ef37333ea690464bcc3fb",
+      "bounds": {
+        "min": [
+          -0.01999574713408947,
+          -1.9511841973496186e-15,
+          -0.04245347857778512
+        ],
+        "max": [
+          0.03126721100122184,
+          0.16385905758356284,
+          0.10881250456016636
+        ]
+      }
+    },
+    {
+      "file": "revo2-right.glb",
+      "bytes": 2628296,
+      "sha256": "9d360a23caa83d7444054d9e3a721c723bae7f73ae0e54256412fa08a8bca27a",
+      "bounds": {
+        "min": [
+          -0.0199789609760046,
+          -2.9063103318613935e-17,
+          -0.10990344382164348
+        ],
+        "max": [
+          0.03238621913694917,
+          0.16275007307673625,
+          0.04246347857778518
+        ]
+      }
+    }
+  ]
+}

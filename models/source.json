@@ -1,0 +1,219 @@
+{
+  "source": "https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description",
+  "ref": "master",
+  "retrievedAt": "2026-10-12T03:02:13.148084Z",
+  "urdf": "g1_pl.urdf",
+  "urdfSha256": "f63aa5b350978065bc0d9dbad0081734996be439f8e901ed453e167786092514",
+  "assets": [
+    {
+      "name": "meshes/handle_link.STL",
+      "bytes": 63784,
+      "sha256": "2436b839cba03c2972a028d01e7e3e9542994b0dd8940f4993abbd187c9c8b1c"
+    },
+    {
+      "name": "meshes/head_base_link_with_2dof_head.STL",
+      "bytes": 185084,
+      "sha256": "f25a1f0e882dd70c23a10811a8dd382e2c91a5564330976889b20e88fc954eaf"
+    },
+    {
+      "name": "meshes/head_link_with_2dof_head.STL",
+      "bytes": 878234,
+      "sha256": "a6f898e5173f81c4b2d069317863baed7e7559f1e240dc2a0c391fd356291069"
+    },
+    {
+      "name": "meshes/left_ankle_pitch_link.STL",
+      "bytes": 71184,
+      "sha256": "d49e3abc6f5b12e532062cd575b87b5ef40cd2a3fc18f54a1ca5bba4f773d51d"
+    },
+    {
+      "name": "meshes/left_ankle_roll_link.STL",
+      "bytes": 653384,
+      "sha256": "c4092af943141d4d9f74232f3cfa345afc6565f46a077793b8ae0e68b39dc33f"
+    },
+    {
+      "name": "meshes/left_elbow_link.STL",
+      "bytes": 88784,
+      "sha256": "fa752198accd104d5c4c3a01382e45165b944fbbc5acce085059223324e5bed3"
+    },
+    {
+      "name": "meshes/left_hip_pitch_link.STL",
+      "bytes": 181684,
+      "sha256": "4725168105ee768ee31638ef22b53f6be2d7641bfd7cfefe803488d884776fa4"
+    },
+    {
+      "name": "meshes/left_hip_roll_link.STL",
+      "bytes": 192184,
+      "sha256": "91f25922ee8a7c3152790051bebad17b4d9cd243569c38fe340285ff93a97acf"
+    },
+    {
+      "name": "meshes/left_hip_yaw_link.STL",
+      "bytes": 296284,
+      "sha256": "a16d88aa6ddac8083aa7ad55ed317bea44b1fa003d314fba88965b7ed0f3b55b"
+    },
+    {
+      "name": "meshes/left_knee_link.STL",
+      "bytes": 854884,
+      "sha256": "8d92b9e3d3a636761150bb8025e32514c4602b91c7028d523ee42b3e632de477"
+    },
+    {
+      "name": "meshes/left_rubber_hand.STL",
+      "bytes": 2287484,
+      "sha256": "cff2221a690fa69303f61fce68f2d155c1517b52efb6ca9262dd56e0bc6e70fe"
+    },
+    {
+      "name": "meshes/left_shoulder_pitch_link.STL",
+      "bytes": 176784,
+      "sha256": "f0d1cfd02fcf0d42f95e678eeca33da3afbcc366ffba5c052847773ec4f31d52"
+    },
+    {
+      "name": "meshes/left_shoulder_roll_link.STL",
+      "bytes": 400284,
+      "sha256": "fb9df21687773522598dc384f1a2945c7519f11cbc8bd372a49170316d6eee88"
+    },
+    {
+      "name": "meshes/left_shoulder_yaw_link.STL",
+      "bytes": 249184,
+      "sha256": "1aa97e9748e924336567992181f78c7cd0652fd52a4afcca3df6b2ef6f9e712e"
+    },
+    {
+      "name": "meshes/left_wrist_pitch_link_5010.STL",
+      "bytes": 91784,
+      "sha256": "65c91c4681228f28ccb73d9fc7e853bc1c857da199352321e834e15f2cd7a7d4"
+    },
+    {
+      "name": "meshes/left_wrist_roll_link_5010.STL",
+      "bytes": 899184,
+      "sha256": "b5be0d8d17b6db9f74323049ce6a0b8a7d95b2434a34805650cc22050f4992dd"
+    },
+    {
+      "name": "meshes/left_wrist_yaw_link_5010.STL",
+      "bytes": 682184,
+      "sha256": "d020b9ef67b0899c98b77029d8de80a820c16dba0b7611d0cd7f85033d9241f1"
+    },
+    {
+      "name": "meshes/logo_link.STL",
+      "bytes": 243384,
+      "sha256": "8571a0a19bc4916fa55f91449f51d5fdefd751000054865a842449429d5f155b"
+    },
+    {
+      "name": "meshes/neck_pitch_link_with_2dof_head.STL",
+      "bytes": 2051134,
+      "sha256": "c54a5bbef9b0b9203153d23578a1a07d6724f05caa46a70f9fb0d046bebc200e"
+    },
+    {
+      "name": "meshes/pelvis_ver0529.STL",
+      "bytes": 1751184,
+      "sha256": "9a249feb95d632aa648cd07757b2ccce6da36723875e7630fa75d66a4ae8f036"
+    },
+    {
+      "name": "meshes/right_ankle_pitch_link.STL",
+      "bytes": 71184,
+      "sha256": "15be426539ec1be70246d4d82a168806db64a41301af8b35c197a33348c787a9"
+    },
+    {
+      "name": "meshes/right_ankle_roll_link.STL",
+      "bytes": 653784,
+      "sha256": "4b66222ea56653e627711b56d0a8949b4920da5df091da0ceb343f54e884e3a5"
+    },
+    {
+      "name": "meshes/right_elbow_link.STL",
+      "bytes": 88784,
+      "sha256": "1be925d7aa268bb8fddf5362b9173066890c7d32092c05638608126e59d1e2ab"
+    },
+    {
+      "name": "meshes/right_hip_pitch_link.STL",
+      "bytes": 181284,
+      "sha256": "e4f3c99d7f4a7d34eadbef9461fc66e3486cb5442db1ec50c86317d459f1a9c6"
+    },
+    {
+      "name": "meshes/right_hip_roll_link.STL",
+      "bytes": 192684,
+      "sha256": "4c254ef66a356f492947f360dd931965477b631e3fcc841f91ccc46d945d54f6"
+    },
+    {
+      "name": "meshes/right_hip_yaw_link.STL",
+      "bytes": 296284,
+      "sha256": "e479c2936ca2057e9eb2f7dff6c189b7419d7b8484dea0b298cbb36a2a6aa668"
+    },
+    {
+      "name": "meshes/right_knee_link.STL",
+      "bytes": 852284,
+      "sha256": "63c4008449c9bbe701a6e2b557b7a252e90cf3a5abcf54cee46862b9a69f8ec8"
+    },
+    {
+      "name": "meshes/right_rubber_hand.STL",
+      "bytes": 2192684,
+      "sha256": "99533b778bca6246144fa511bb9d4e555e075c641f2a0251e04372869cd99d67"
+    },
+    {
+      "name": "meshes/right_shoulder_pitch_link.STL",
+      "bytes": 176784,
+      "sha256": "24cdb387e0128dfe602770a81c56cdce3a0181d34d039a11d1aaf8819b7b8c02"
+    },
+    {
+      "name": "meshes/right_shoulder_roll_link.STL",
+      "bytes": 401884,
+      "sha256": "962b97c48f9ce9e8399f45dd9522e0865d19aa9fd299406b2d475a8fc4a53e81"
+    },
+    {
+      "name": "meshes/right_shoulder_yaw_link.STL",
+      "bytes": 249984,
+      "sha256": "a0b76489271da0c72461a344c9ffb0f0c6e64f019ea5014c1624886c442a2fe5"
+    },
+    {
+      "name": "meshes/right_wrist_pitch_link_5010.STL",
+      "bytes": 91784,
+      "sha256": "ac1110adfd93a10396bd32bba7b71ded5ccd757405b9e6d3d0b4ff53dea09582"
+    },
+    {
+      "name": "meshes/right_wrist_roll_link_5010.STL",
+      "bytes": 899184,
+      "sha256": "458d62c3fcb63f526cd258397c7ac88350d50fd444f35646054cb0e2015a2042"
+    },
+    {
+      "name": "meshes/right_wrist_yaw_link_5010.STL",
+      "bytes": 682184,
+      "sha256": "fe36d6fe3f09fb0bb27bf3027b4c388110505d3f46678b80afe2e198a5ea7922"
+    },
+    {
+      "name": "meshes/torso_link_with_2dof_head.STL",
+      "bytes": 1471134,
+      "sha256": "9fb08857bc2b97d274e4b068f89f660f30ae5d27c12b0ea7f305a8b12fc98f68"
+    },
+    {
+      "name": "meshes/waist_roll_link_rev_1_0.STL",
+      "bytes": 85884,
+      "sha256": "b67c347a05abc3e8ddae600d98a082bee273bb39f8e651647708b0a7140a8a97"
+    },
+    {
+      "name": "meshes/waist_yaw_custom.STL",
+      "bytes": 620184,
+      "sha256": "4f670d9f106deca33b33e2898e61494fe3d6eb996809d9457e02ba285a966bf0"
+    }
+  ],
+  "model": "G1+ g1_pl",
+  "license": "BSD-3-Clause",
+  "convertedAt": "2026-10-12T03:05:36.656Z",
+  "modifications": [
+    "URDF joint hierarchy retained in GLB",
+    "STL positions indexed and normals smoothed",
+    "Web-only metal materials, stage lighting and authored animation"
+  ],
+  "output": {
+    "filename": "g1-stage.glb",
+    "bytes": 8006392,
+    "triangles": 430059,
+    "bounds": {
+      "min": [
+        -0.10504950324627353,
+        -0.7922728974794128,
+        -0.19258432317347626
+      ],
+      "max": [
+        0.37814145118675235,
+        0.5536848198747635,
+        0.1925843231734764
+      ]
+    }
+  }
+}
