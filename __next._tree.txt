@@ -2,4 +2,4 @@
 :HL["/robot-portfolio/_next/static/css/7794af99c7019b84.css","style"]
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"N6lfUdSxvJOcvk61q_D3r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_unZdmAfpfCXrFy0h2tu-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

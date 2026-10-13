@@ -3,4 +3,4 @@
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"N6lfUdSxvJOcvk61q_D3r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_unZdmAfpfCXrFy0h2tu-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
