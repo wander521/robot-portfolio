@@ -1,29 +1,34 @@
 1:"$Sreact.fragment"
-2:I[1133,[],""]
-3:"static/chunks/app/error-a67398389db57f24.js"
-4:I[6651,["39","$3"],"default"]
-5:I[4297,[],""]
-6:"static/chunks/568-66e5f4bdc1fba52f.js"
-7:"static/chunks/200-70f8edfac1cee6f6.js"
-8:"static/chunks/446-fb6d55c1cb4b4823.js"
-9:"static/chunks/app/credits/page-2ec3cdaf20df785c.js"
-a:I[9568,["568","$6","200","$7","446","$8","699","$9"],""]
-e:I[9869,["568","$6","200","$7","446","$8","699","$9"],"default"]
-f:I[1872,[],"OutletBoundary"]
-10:"$Sreact.suspense"
-12:"ViewportBoundary"
-13:I[1872,[],"$12"]
-15:"MetadataBoundary"
-16:I[1872,[],"$15"]
-18:I[7567,[],"default",1]
-:HL["/robot-portfolio/_next/static/css/3243dcb7c60eebb2.css","style"]
+2:"static/chunks/852-513a9ccec2a45ade.js"
+3:"static/chunks/525-49097e2a01c2c7c2.js"
+4:"static/chunks/355-faa582e8cfb4d6ad.js"
+5:"static/chunks/464-256cb0b32051e4fa.js"
+6:"static/chunks/app/credits/page-e0e1105b6ae46b63.js"
+7:"LanguageProvider"
+8:I[4355,["852","$2","525","$3","355","$4","464","$5","699","$6"],"$7"]
+9:I[1133,[],""]
+a:"static/chunks/app/error-39741b027e74837d.js"
+b:I[6651,["355","$4","39","$a"],"default"]
+c:I[4297,[],""]
+d:I[4355,["852","$2","525","$3","355","$4","464","$5","699","$6"],"Localized"]
+e:I[9568,["852","$2","525","$3","355","$4","464","$5","699","$6"],""]
+12:I[464,["852","$2","525","$3","355","$4","464","$5","699","$6"],"Header"]
+13:I[464,["852","$2","525","$3","355","$4","464","$5","699","$6"],"Footer"]
+14:I[1872,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[1872,[],"$17"]
+1a:"MetadataBoundary"
+1b:I[1872,[],"$1a"]
+1d:I[7567,[],"default",1]
+:HL["/robot-portfolio/_next/static/css/8dacd1e90ab96fc1.css","style"]
 :HL["/robot-portfolio/_next/static/css/7794af99c7019b84.css","style"]
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
-c:X
-d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"id":"top","children":[[["$","a",null,{"className":"skip-link","href":"#main","children":"跳到主要内容"}],false,["$","header",null,{"className":"site-header","children":[["$","nav",null,{"aria-label":"主导航","children":[["$","$La",null,{"href":"/projects/roboclaw#capabilities","children":"能力"}],["$","$La",null,{"href":"/#projects","children":"项目"}],["$","$La",null,{"href":"/#experience","children":"经历"}],["$","$La",null,{"href":"/#about","children":"关于"}],["$","$La",null,{"href":"/#contact","children":"联系"}]]}],["$","$La",null,{"href":"/","className":"wordmark","children":["机器人开发",["$","span",null,{"children":"个人作品集"}]]}]]}]],["$","main",null,{"id":"main","className":"credits-page","children":[["$","h1",null,{"children":"模型与素材说明"}],["$","p",null,{"children":"机器人动作与镜头由网站动画系统编排。"}],["$","p",null,{"children":["机器人几何与关节结构来自 ",["$","a",null,{"href":"https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description","target":"_blank","rel":"noreferrer","children":"Unitree Robotics 官方 G1 模型仓库"}],"。网站将 URDF 与 STL 转换为 GLB，保留关节层级，另行设置镜头、金属材质与舞台灯光。具体来源、下载快照和修改记录保存在模型清单中。"]}],["$","p",null,{"children":[["$","a",null,{"href":"/robot-portfolio/models/source.json","children":"模型来源清单"}]," · ",["$","a",null,{"href":"/robot-portfolio/models/LICENSE.txt","children":"模型许可证"}]]}],["$","p",null,{"children":["灵巧手展示采用 ",["$","a",null,{"href":"https://github.com/BrainCoTech/revo2_description","target":"_blank","rel":"noreferrer","children":"强脑科技 BrainCo 官方 Revo 2 左右手模型"}],"，由 URDF 与 STL 转换为 GLB，保留关节轴、限位和 mimic 从动关系，另行编排网页手势。"]}],["$","p",null,{"children":[["$","a",null,{"href":"/robot-portfolio/models/brainco/source.json","children":"灵巧手模型来源与修改清单"}]," · ",["$","a",null,{"href":"/robot-portfolio/models/brainco/LICENSE.txt","children":"Apache 2.0 许可证"}]]}],["$","p",null,{"children":"中文展示字体：Noto Serif SC（SIL Open Font License）。图标：Lucide（ISC）。项目图片与简历由管理员上传。"}],["$","$La",null,{"className":"text-link","href":"/","children":"返回作品集"}]]}],["$","footer",null,{"className":"site-footer","children":[["$","span",null,{"children":"让想法，在现实中行动。"}],["$","$La",null,{"href":"/credits","children":"模型与素材说明"}],false,["$","a",null,{"href":"#top","children":["回到顶部 ",["$","$Le",null,{"ref":"$undefined","icon":{"name":"arrow-up","size":24,"node":[["path",{"d":"m5 12 7-7 7 7","key":"hav0vg"}],["path",{"d":"M12 19V5","key":"x0mq9r"}]]},"className":"$undefined","size":14}]]}]]}]]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
-b:[["children",{"s":"credits","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
-0:{"P":null,"c":["","credits",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/3243dcb7c60eebb2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/7794af99c7019b84.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":null,"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$La",null,{"className":"button","href":"/","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Xq76wLjLV0rrXwcoJQ2Zv"}
-c:C
-14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-11:null
-17:[["$","title","0",{"children":"模型与素材说明 · 机器人开发作品集"}],["$","meta","1",{"name":"description","content":"机器人与具身智能开发经历，RoboClaw 项目整体研发、系统架构与实践记录。"}]]
+10:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{"children":["$","div",null,{"id":"top","children":[["$","$L12",null,{}],["$","main",null,{"id":"main","className":"credits-page","children":[["$","h1",null,{"children":"模型与素材说明"}],["$","p",null,{"children":"机器人动作与镜头由网站动画系统编排。"}],["$","p",null,{"children":["机器人几何与关节结构来自 ",["$","a",null,{"href":"https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description","target":"_blank","rel":"noreferrer","children":"Unitree Robotics 官方 G1 模型仓库"}],"。网站将 URDF 与 STL 转换为 GLB，保留关节层级，另行设置镜头、金属材质与舞台灯光。具体来源、下载快照和修改记录保存在模型清单中。"]}],["$","p",null,{"children":[["$","a",null,{"href":"/robot-portfolio/models/source.json","children":"模型来源清单"}]," · ",["$","a",null,{"href":"/robot-portfolio/models/LICENSE.txt","children":"模型许可证"}]]}],["$","p",null,{"children":["灵巧手展示采用 ",["$","a",null,{"href":"https://github.com/BrainCoTech/revo2_description","target":"_blank","rel":"noreferrer","children":"强脑科技 BrainCo 官方 Revo 2 左右手模型"}],"，由 URDF 与 STL 转换为 GLB，保留关节轴、限位和 mimic 从动关系，另行编排网页手势。"]}],["$","p",null,{"children":[["$","a",null,{"href":"/robot-portfolio/models/brainco/source.json","children":"灵巧手模型来源与修改清单"}]," · ",["$","a",null,{"href":"/robot-portfolio/models/brainco/LICENSE.txt","children":"Apache 2.0 许可证"}]]}],["$","p",null,{"children":"中文展示字体：Noto Serif SC（SIL Open Font License）。图标：Lucide（ISC）。项目图片与简历由管理员上传。"}],["$","$Le",null,{"className":"text-link","href":"/","children":"返回作品集"}]]}],["$","$L13",null,{}]]}]}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":"credits","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","credits",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/8dacd1e90ab96fc1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/7794af99c7019b84.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L8",null,{"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$b","errorStyles":[],"errorScripts":null,"template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$Ld",null,{"children":["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$Le",null,{"className":"button","href":"/","children":"返回首页"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CnejS9SZS6MBa-OZULSVd"}
+10:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:null
+1c:[["$","title","0",{"children":"模型与素材说明 · 机器人开发作品集"}],["$","meta","1",{"name":"description","content":"机器人与具身智能开发经历，RoboClaw 项目整体研发、系统架构与实践记录。"}]]

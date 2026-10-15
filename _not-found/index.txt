@@ -1,28 +1,31 @@
 1:"$Sreact.fragment"
-2:I[1133,[],""]
-3:"static/chunks/app/error-a67398389db57f24.js"
-4:I[6651,["39","$3"],"default"]
-5:I[4297,[],""]
-6:"static/chunks/568-66e5f4bdc1fba52f.js"
-7:"static/chunks/200-70f8edfac1cee6f6.js"
-8:"static/chunks/446-fb6d55c1cb4b4823.js"
-9:"static/chunks/app/page-626f775241d1f161.js"
-a:I[9568,["568","$6","200","$7","446","$8","974","$9"],""]
-e:I[1872,[],"OutletBoundary"]
-f:"$Sreact.suspense"
-11:"ViewportBoundary"
-12:I[1872,[],"$11"]
-14:"MetadataBoundary"
+2:"static/chunks/355-faa582e8cfb4d6ad.js"
+3:"static/chunks/app/layout-2656625040b5a65f.js"
+4:"LanguageProvider"
+5:I[4355,["355","$2","177","$3"],"$4"]
+6:I[1133,[],""]
+7:"static/chunks/app/error-39741b027e74837d.js"
+8:I[6651,["355","$2","39","$7"],"default"]
+9:I[4297,[],""]
+a:I[4355,["355","$2","177","$3"],"Localized"]
+b:"static/chunks/852-513a9ccec2a45ade.js"
+c:"static/chunks/app/not-found-0e7be679fc65648e.js"
+d:I[9568,["852","$b","355","$2","345","$c"],""]
+11:I[1872,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+14:"ViewportBoundary"
 15:I[1872,[],"$14"]
-17:I[7567,[],"default",1]
-:HL["/robot-portfolio/_next/static/css/3243dcb7c60eebb2.css","style"]
+17:"MetadataBoundary"
+18:I[1872,[],"$17"]
+1a:I[7567,[],"default",1]
+:HL["/robot-portfolio/_next/static/css/8dacd1e90ab96fc1.css","style"]
 :HL["/robot-portfolio/_next/static/css/7794af99c7019b84.css","style"]
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
-c:X
-d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$La",null,{"className":"button","href":"/","children":"返回首页"}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
-b:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
-0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/3243dcb7c60eebb2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/7794af99c7019b84.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$4","errorStyles":[],"errorScripts":null,"template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$La",null,{"className":"button","href":"/","children":"返回首页"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Xq76wLjLV0rrXwcoJQ2Zv"}
-c:C
-13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-10:null
-16:[["$","title","0",{"children":"机器人开发 · 个人作品集"}],["$","meta","1",{"name":"description","content":"机器人与具身智能开发经历，RoboClaw 项目整体研发、系统架构与实践记录。"}]]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$La",null,{"children":["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$Ld",null,{"className":"button","href":"/","children":"返回首页"}]]}]}],null,["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/8dacd1e90ab96fc1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/7794af99c7019b84.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":null,"template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$La",null,{"children":["$","main",null,{"className":"credits-page","children":[["$","h1",null,{"children":"这页还没有内容。"}],["$","p",null,{"children":"项目可能已调整地址。回到作品集查看当前公开的内容。"}],["$","$Ld",null,{"className":"button","href":"/","children":"返回首页"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":"$L16"}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":"$L19"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1a",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"CnejS9SZS6MBa-OZULSVd"}
+f:C
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:null
+19:[["$","title","0",{"children":"机器人开发 · 个人作品集"}],["$","meta","1",{"name":"description","content":"机器人与具身智能开发经历，RoboClaw 项目整体研发、系统架构与实践记录。"}]]
