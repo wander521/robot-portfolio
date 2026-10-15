@@ -1,7 +1,8 @@
-:HL["/robot-portfolio/_next/static/css/8dacd1e90ab96fc1.css","style"]
+:HL["/robot-portfolio/_next/static/css/6c94cb42a9fa0e70.css","style"]
 :HL["/robot-portfolio/_next/static/css/7794af99c7019b84.css","style"]
 :HL["/robot-portfolio/_next/static/css/ccb34a7c1bd2bcc9.css","style"]
+:HL["/robot-portfolio/_next/static/css/978ab4248b017c01.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"embodied-ai-data-collect","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"CnejS9SZS6MBa-OZULSVd","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"oqvXcZvBD3lGoGRnvQ3s2","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
